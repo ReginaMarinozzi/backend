@@ -32,4 +32,4 @@ productos.addProduct('Camisa', 'Verde', 16000, 'img3', 'cccc3', 8)
 
 console.log(productos.getProduct());
 console.log(productos.getProductById(1));
-console.log(productos.getProductById(2));
+console.log(productos.getProductById(5));
